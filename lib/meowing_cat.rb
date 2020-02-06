@@ -7,11 +7,10 @@
 class Cat
   attr_accessor :cats_name
 
-  def self.meow
+  def meow
     puts "meow!"
   end
 
 end
 
-cat = cat.new
 cat.meow
