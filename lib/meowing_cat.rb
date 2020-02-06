@@ -12,5 +12,3 @@ class Cat
   end
 
 end
-
-cat.meow
