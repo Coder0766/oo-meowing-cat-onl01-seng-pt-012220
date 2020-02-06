@@ -14,3 +14,4 @@ attr_accessor :cats_name
 end
 
 cat.new
+cat.meow
