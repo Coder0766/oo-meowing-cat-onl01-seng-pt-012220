@@ -12,3 +12,5 @@ attr_accessor :cats_name
   end
 
 end
+
+cat.new
